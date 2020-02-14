@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Gears>
+  <GearItem Name="HeadSanta" ItemID="1318"/>
+  <GearItem Name="UpperSanta" ItemID="1319"/>
+  <GearItem Name="LowerSanta" ItemID="1320"/>
+  <GearItem Name="ShirtDeveloper" ItemID="1321"/>
+  <GearItem Name="ShirtDark" ItemID="1322"/>
+  <GearItem Name="ShirtBright" ItemID="1323"/>
+</Gears>
